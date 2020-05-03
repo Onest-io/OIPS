@@ -5,10 +5,17 @@ providing information to the Onest community, or describing a new feature for
 Onest or its processes or environment. OIPS provide a concise
 technical specification of features and a rationale for them.
 
-The distinct document [OIP Purpose and Guidelines](oips-0001.md) gives a more
+The distinct document [OIP Purpose and Guidelines](oip-0001.md) gives a more
 detailed explanation.
 
 # Available OIPS
+
+## collapsible markdown?
+
+<details><summary>BSIP</summary>
+<p>
+
+#### yes, even hidden code blocks!
 
 Number             | Title                                                    | Owner             | Type           | Status
 -------------------|----------------------------------------------------------|-------------------|----------------|--------
@@ -43,3 +50,6 @@ Number             | Title                                                    | 
 [81](bsip/bsip-0081.md) | Simple Maker-Taker Market Fees | Abit More | Protocol | Draft
 [84](bsip/bsip-0084.md) | Elections Based on non-Core Asset | Peter Conrad | Protocol | Draft
 [85](bsip/bsip-0085.md) | Maker Order Creation Fee Discount | Abit More | Protocol | Draft
+
+</p>
+</details>
