@@ -11,7 +11,7 @@ detailed explanation.
 # Available OIPS
 
 
-<details><summary>BSIP</summary>
+<details><summary>BSIPs</summary>
 <p>
 
 Number             | Title                                                    | Owner             | Type           | Status
