@@ -10,13 +10,9 @@ detailed explanation.
 
 # Available OIPS
 
-## collapsible markdown?
 
 <details><summary>BSIP</summary>
 <p>
-
-#### yes, even hidden code blocks!
-
 Number             | Title                                                    | Owner             | Type           | Status
 -------------------|----------------------------------------------------------|-------------------|----------------|--------
 [1](bsip/bsip-0001.md)  | BSIP Purpose and Guidelines                              | Fabian Schuh      | Informational  | Draft
@@ -50,6 +46,5 @@ Number             | Title                                                    | 
 [81](bsip/bsip-0081.md) | Simple Maker-Taker Market Fees | Abit More | Protocol | Draft
 [84](bsip/bsip-0084.md) | Elections Based on non-Core Asset | Peter Conrad | Protocol | Draft
 [85](bsip/bsip-0085.md) | Maker Order Creation Fee Discount | Abit More | Protocol | Draft
-
 </p>
 </details>
